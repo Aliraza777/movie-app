@@ -1,5 +1,7 @@
 # movie-app
 
+Movie application for showing the new movies their rating and details like information, actors release date etc using NUXT 
+
 ## Build Setup
 
 ```bash
